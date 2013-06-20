@@ -1,5 +1,5 @@
-2013/05/09-22:38:38.051330 2aaaaab03fc0 Recovering log #41
-2013/05/09-22:38:38.088856 2aaaaab03fc0 Level-0 table #48: started
-2013/05/09-22:38:38.155283 2aaaaab03fc0 Level-0 table #48: 56676 bytes OK
-2013/05/09-22:38:38.290055 2aaaaab03fc0 Delete type=3 #39
-2013/05/09-22:38:38.290093 2aaaaab03fc0 Delete type=0 #41
+2013/06/20-22:19:59.363674 2aeb65fddd80 Recovering log #15
+2013/06/20-22:19:59.363708 2aeb65fddd80 Level-0 table #18: started
+2013/06/20-22:19:59.367451 2aeb65fddd80 Level-0 table #18: 369 bytes OK
+2013/06/20-22:19:59.375630 2aeb65fddd80 Delete type=3 #13
+2013/06/20-22:19:59.375669 2aeb65fddd80 Delete type=0 #15
